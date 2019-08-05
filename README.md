@@ -6,7 +6,7 @@
 
 ----------------------------------
 
-AtJSON is a collection of repositories that together make up a fully-realized content format.
+AtJSON is a collection of packages that together make up a fully-realized content format.
 
 | Quick Links |
 |-------------|
